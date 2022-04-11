@@ -12,7 +12,12 @@ focus on filling. This repo contains a blank Evidence Tracker
     December 2021, found
     [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040274/Teachers__Standards_Dec_2021.pdf).
 
-## Instructions
+
+## Download
+
+Click [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/archive/refs/heads/main.zip) to download all files (including this README and the demo version) or [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/raw/main/PGCEEvidenceTracker.xlsm) to download just the blank Evidence Tracker itself.
+
+## How to Use
 
 Open `PGCEEvidenceTracker.xlsm` and click "Enable Content" if prompted by a
 security warning about macros (this is necessary for the spreadsheet to
