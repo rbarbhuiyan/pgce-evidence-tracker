@@ -14,7 +14,11 @@ focus on filling. This repo contains a blank Evidence Tracker
 
 ## Download
 
-Click [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/archive/refs/heads/main.zip) to download all files (including this README and the demo version) or [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/raw/main/PGCEEvidenceTracker.xlsm) to download just the blank Evidence Tracker itself.
+Click
+[here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/archive/refs/heads/main.zip)
+to download all files (including this README and the demo version) or
+[here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/raw/main/PGCEEvidenceTracker.xlsm)
+to download just the blank Evidence Tracker itself.
 
 ## How to Use
 
@@ -87,4 +91,5 @@ with their tutor/s).
 If you found this useful and want to donate something, feel free to buy me a
 coffee (well, hot chocolate more like) - thanks!
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/Ididyne)
+[![Buy Me A
+Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/Ididyne)
