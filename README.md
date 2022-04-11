@@ -76,7 +76,7 @@ with their tutor/s).
 
 ## Desired Improvements
 
-`EvidenceTracker` sheet:
+### `EvidenceTracker` sheet
 
 - Adding an `All` option in the `Teachers' Standards` column.
 - Checkbox-style selection of `Teachers' Standards` to allow all selections to
