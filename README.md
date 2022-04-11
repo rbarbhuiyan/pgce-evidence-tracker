@@ -12,7 +12,6 @@ focus on filling. This repo contains a blank Evidence Tracker
     December 2021, found
     [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040274/Teachers__Standards_Dec_2021.pdf).
 
-
 ## Download
 
 Click [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/archive/refs/heads/main.zip) to download all files (including this README and the demo version) or [here](https://github.com/rbarbhuiyan/pgce-evidence-tracker/raw/main/PGCEEvidenceTracker.xlsm) to download just the blank Evidence Tracker itself.
@@ -88,7 +87,4 @@ with their tutor/s).
 If you found this useful and want to donate something, feel free to buy me a
 coffee (well, hot chocolate more like) - thanks!
 
-<a href="https://www.buymeacoffee.com/Ididyne" target="_blank"> <img
-src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"
-alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
-</a>
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/Ididyne)
