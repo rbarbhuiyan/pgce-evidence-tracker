@@ -5,8 +5,8 @@ A spreadsheet tool for PGCE candidates to log and track evidence against
 Standards](https://www.gov.uk/government/publications/teachers-standards)[^TSVersion],
 with a feature to highlight ongoing gaps in their portfolio that they can then
 focus on filling. This repo contains a blank Evidence Tracker
-(`PGCEEvidenceTracker.xlsm`) as well as a demo
-version (`PGCEEvidenceTracker_demo.xlsm`).
+(`PGCEEvidenceTracker.xlsm`) as well as a demo version
+(`PGCEEvidenceTracker_demo.xlsm`).
 
 [^TSVersion]: This tool is based on the Teachers' Standards published in
     December 2021, found
@@ -65,9 +65,10 @@ with supporting items of evidence).
 This sheet contains a copy of the Teachers' Standards in table form, along with
 an automated running count of each TSSPec's occurrence in their Evidence Tracker
 table. There is also a separate table to set occurrence thresholds according to
-a colour-scale as well so that the User can visually identify any 'weak' areas
-in their portfolio. These occurrence threshold values are arbitrary and set by
-the User (and agreed upon with their tutor/s).
+a colour-scale as well. Together, these can be used so that the User can
+visually identify any 'weak' areas in their portfolio and focus on them. These
+occurrence threshold values are arbitrary and set by the User (and agreed upon
+with their tutor/s).
 
 ## Desired Improvements
 
